@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //JPA Auditing 활성화
 
 //스프링 부트의 자동설정, 스프링 bean 생성, 읽기 가능
-//@EnableJpaAuditing
+
 @SpringBootApplication
 public class Application {
 
